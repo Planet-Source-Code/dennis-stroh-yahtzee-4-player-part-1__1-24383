@@ -1,0 +1,8 @@
+Yahtzee = 9, 111, 792, 712, C
+frmSplash = 98, 116, 730, 642, C, 110, 110, 436, 386, I
+frmPlayerNames = 79, 136, 704, 608, I, 66, 66, 188, 346, 
+frmOldOrNewGame = 273, 136, 720, 712, C, 110, 110, 232, 390, 
+FrmYahtzeeForm = 14, 138, 725, 691, C, 0, 0, 327, 361, Z
+FrmHighScores = 53, 108, 639, 684, C, 0, 0, 0, 0, 
+frmPlayerChanges = 131, 103, 669, 602, C, 0, 0, 0, 0, 
+frmYahtzeeHS_Help = 129, 103, 576, 679, C, 0, 0, 0, 0, 
